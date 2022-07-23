@@ -25,7 +25,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الخرطوم"@ara-Arab ,
         "Khartoum"@eng-Latn ;
-    wdata:q7200235 "SD01" ;
+    wdata:Q7200235 "SD01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -67,7 +67,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البحر الأحمر"@ara-Arab ,
         "Red Sea"@eng-Latn ;
-    wdata:q7200235 "SD10" ;
+    wdata:Q7200235 "SD10" ;
 .
 
 <urn:mdciii:1603:16:729:1:11>
@@ -80,7 +80,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كسلا"@ara-Arab ,
         "Kassala"@eng-Latn ;
-    wdata:q7200235 "SD11" ;
+    wdata:Q7200235 "SD11" ;
 .
 
 <urn:mdciii:1603:16:729:1:12>
@@ -93,7 +93,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القضارف"@ara-Arab ,
         "Gedaref"@eng-Latn ;
-    wdata:q7200235 "SD12" ;
+    wdata:Q7200235 "SD12" ;
 .
 
 <urn:mdciii:1603:16:729:1:13>
@@ -106,7 +106,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "شمال كردفان"@ara-Arab ,
         "North Kordofan"@eng-Latn ;
-    wdata:q7200235 "SD13" ;
+    wdata:Q7200235 "SD13" ;
 .
 
 <urn:mdciii:1603:16:729:1:14>
@@ -119,7 +119,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سنار"@ara-Arab ,
         "Sennar"@eng-Latn ;
-    wdata:q7200235 "SD14" ;
+    wdata:Q7200235 "SD14" ;
 .
 
 <urn:mdciii:1603:16:729:1:15>
@@ -132,7 +132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الجزيرة"@ara-Arab ,
         "Aj Jazirah"@eng-Latn ;
-    wdata:q7200235 "SD15" ;
+    wdata:Q7200235 "SD15" ;
 .
 
 <urn:mdciii:1603:16:729:1:16>
@@ -145,7 +145,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "نهر النيل"@ara-Arab ,
         "River Nile"@eng-Latn ;
-    wdata:q7200235 "SD16" ;
+    wdata:Q7200235 "SD16" ;
 .
 
 <urn:mdciii:1603:16:729:1:17>
@@ -158,7 +158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الشمالية"@ara-Arab ,
         "Northern"@eng-Latn ;
-    wdata:q7200235 "SD17" ;
+    wdata:Q7200235 "SD17" ;
 .
 
 <urn:mdciii:1603:16:729:1:18>
@@ -171,7 +171,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "غرب كردفان"@ara-Arab ,
         "West Kordofan"@eng-Latn ;
-    wdata:q7200235 "SD18" ;
+    wdata:Q7200235 "SD18" ;
 .
 
 <urn:mdciii:1603:16:729:1:19>
@@ -184,7 +184,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "إدارية أبيي"@ara-Arab ,
         "Abyei PCA"@eng-Latn ;
-    wdata:q7200235 "SD19" ;
+    wdata:Q7200235 "SD19" ;
 .
 
 <urn:mdciii:1603:16:729:1:2>
@@ -197,7 +197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "شمال دارفور"@ara-Arab ,
         "North Darfur"@eng-Latn ;
-    wdata:q7200235 "SD02" ;
+    wdata:Q7200235 "SD02" ;
 .
 
 <urn:mdciii:1603:16:729:1:3>
@@ -210,7 +210,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جنوب دارفور"@ara-Arab ,
         "South Darfur"@eng-Latn ;
-    wdata:q7200235 "SD03" ;
+    wdata:Q7200235 "SD03" ;
 .
 
 <urn:mdciii:1603:16:729:1:4>
@@ -223,7 +223,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "غرب دارفور"@ara-Arab ,
         "West Darfur"@eng-Latn ;
-    wdata:q7200235 "SD04" ;
+    wdata:Q7200235 "SD04" ;
 .
 
 <urn:mdciii:1603:16:729:1:5>
@@ -236,7 +236,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "شرق دارفور"@ara-Arab ,
         "East Darfur"@eng-Latn ;
-    wdata:q7200235 "SD05" ;
+    wdata:Q7200235 "SD05" ;
 .
 
 <urn:mdciii:1603:16:729:1:6>
@@ -249,7 +249,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "وسط دارفور"@ara-Arab ,
         "Central Darfur"@eng-Latn ;
-    wdata:q7200235 "SD06" ;
+    wdata:Q7200235 "SD06" ;
 .
 
 <urn:mdciii:1603:16:729:1:7>
@@ -262,7 +262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جنوب كردفان"@ara-Arab ,
         "South Kordofan"@eng-Latn ;
-    wdata:q7200235 "SD07" ;
+    wdata:Q7200235 "SD07" ;
 .
 
 <urn:mdciii:1603:16:729:1:8>
@@ -275,7 +275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "النيل الأزرق"@ara-Arab ,
         "Blue Nile"@eng-Latn ;
-    wdata:q7200235 "SD08" ;
+    wdata:Q7200235 "SD08" ;
 .
 
 <urn:mdciii:1603:16:729:1:9>
@@ -288,6 +288,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "النيل الأبيض"@ara-Arab ,
         "White Nile"@eng-Latn ;
-    wdata:q7200235 "SD09" ;
+    wdata:Q7200235 "SD09" ;
 .
 
